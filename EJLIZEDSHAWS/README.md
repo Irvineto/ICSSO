@@ -1,2 +1,2 @@
-# LP3THW
+# EJLIZEDSHAWS
 Ejercicios del libro Zed Shaw's
